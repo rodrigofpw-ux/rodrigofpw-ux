@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#38BD36FF=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=495&height=57&lines=Ol%C3%A1+%2C+bem+vindo;Eu+sou+Rodrigo;Cientista+de+Dados)](https://git.io/typing-svg)
 
